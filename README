@@ -1,3 +1,5 @@
+The code only works with up to 100 Adresses, because of the OSRM Server limit. Run OSRM locally to not have this limitation anymore.
+
 The Adresses should be provided in an Excel file with the Format as folloging:
 
 (A1) : Adresse
