@@ -1,0 +1,4 @@
+The Adresses should be provided in an Excel file with the Format as folloging:
+
+(A1) : Adresse
+(A2) : <Street with number>, <Postal Code> <City>
